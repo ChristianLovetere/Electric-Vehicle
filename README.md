@@ -17,4 +17,4 @@ This schematic shows the different aspects of the design. VCC is used to denote 
   <img src="PCB/Wire Schematic.png" alt="What is this">
 </p>
 
-
+Portable Controller subproject has its own readme in the Portable Controller folder.
