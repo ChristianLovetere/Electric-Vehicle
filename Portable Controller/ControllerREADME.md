@@ -4,3 +4,13 @@ A subproject of the car project. This portable controller has a power on/off swi
   <img src="controller1.jpg" alt="Image 1" width="45%">
   <img src="controller2.jpg" alt="Image 2" width="45%">
 </p>
+
+The LCD Screen displays the current left and right motor packet (intensity and direction) as well as a short string that demonstrates the intended action (slight left, hard right, drag turn, etc.)
+
+The SpaceMouse is used to control the vehicle, rotating it left and right to indicate turning, and forward and backward for that. The side buttons are currently used to exit the program, but will eventually be used to flip the relays on the PCB and change gear for the vehicle.
+
+Controller Schematic:
+
+<p align="center">
+  <img src="PortableControllerSchematic.pdf" alt="What is this">
+</p>
