@@ -18,3 +18,5 @@ This schematic shows the different aspects of the design. VCC is used to denote 
 <p align="center">
   <img src="PCB/Wire Schematic.png" alt="What is this">
 </p>
+
+
