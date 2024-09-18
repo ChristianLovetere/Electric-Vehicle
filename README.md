@@ -9,7 +9,7 @@ In this ongoing project, we use dahlander motor technology via mechanical relays
 </p>
 <p align="center">
   
-  <img src="PCB/WireSchematic.png" alt="What is this">
+  <img src="PCB/Wireschematic.png" alt="What is this">
 </p>
 
 <p align="center">
