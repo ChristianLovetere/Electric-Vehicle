@@ -7,14 +7,6 @@ In this ongoing project, we use dahlander motor technology via mechanical relays
 The PCB is a 4-layer design consisting of a Signal-Ground-Power-Signal stackup. The top and bottom (signal) layers can be seen below:
 
 <p align="center">
-  <img src="PCB/PCB_TOP.png" alt="What is this">
-</p>
-
-<p align="center">
-  <img src="PCB/PCB_BOTTOM.png" alt="What is this">
-</p>
-
-<p align="center">
   <img src="PCB/PCB_TOP.png" alt="Image 1" width="45%">
   <img src="PCB/PCB_BOTTOM.png" alt="Image 2" width="45%">
 </p>
