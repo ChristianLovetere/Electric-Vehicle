@@ -12,5 +12,5 @@ The SpaceMouse is used to control the vehicle, rotating it left and right to ind
 Controller Schematic:
 
 <p align="center">
-  <img src="PortableControllerSchematic.pdf" alt="What is this">
+  <img src="PortableControllerSchematic.png" alt="What is this">
 </p>
