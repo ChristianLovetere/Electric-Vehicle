@@ -2,7 +2,7 @@ A subproject of the car project. This portable controller has a power on/off swi
 
 <p align="center">
   <img src="ControllerAssembled.jpg" alt="Image 1" width="45%">
-  <img src="ControllerInside.jpg" alt="Image 2" width="45%">
+  <img src="ControllerInsides.jpg" alt="Image 2" width="45%">
 </p>
 
 The LCD Screen displays the current left and right motor packet (intensity and direction) as well as a short string that demonstrates the intended action (slight left, hard right, drag turn, etc.)
