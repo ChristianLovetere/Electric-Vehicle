@@ -2,4 +2,7 @@ In this ongoing project, we use dahlander motor technology via mechanical relays
 
 ![What is this](PCB/CircuitBoard.jpg) 
 ![What is this](PCB/PCB_BOTTOM.png) 
-![What is this](PCB/PCB_TOP.png)
+<p align="center">
+  <img src="PCB/PCB_TOP.png" alt="What is this">
+</p>
+
