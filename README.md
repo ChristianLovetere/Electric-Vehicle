@@ -5,12 +5,13 @@ In this ongoing project, we use dahlander motor technology via mechanical relays
 </p>
 
 <p align="center">
-  <img src="PCB/PCB_BOTTOM.png" alt="What is this">
-</p>
-<p align="center">
-  
   <img src="PCB/Wire Schematic.png" alt="What is this">
 </p>
+
+<p align="center">
+  <img src="PCB/PCB_BOTTOM.png" alt="What is this">
+</p>
+
 
 <p align="center">
   <img src="PCB/PCB_TOP.png" alt="What is this">
