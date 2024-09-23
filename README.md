@@ -1,4 +1,4 @@
-In this ongoing project, we use dahlander motor technology via mechanical relays to alter the torque / speed of the electric vehicle. A custom PCB is used to route all the wiring connections from the Arduino MEGA to the RF Receiver, relays, battery, and motor / motor controllers.
+In this ongoing project, we use Dahlander motor technology via mechanical relays to alter the torque / speed of the electric vehicle. A custom PCB is used to route all the wiring connections from the Arduino MEGA to the RF Receiver, relays, battery, and motor / motor controllers.
 
 <p align="center">
   <img src="PCB/Images/CircuitBoard.jpg" alt="What is this">
